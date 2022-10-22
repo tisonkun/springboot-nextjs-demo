@@ -9,6 +9,6 @@ Run the application with one liner:
 Then you can browse the website at:
 
 * http://localhost:8080/
-* http://localhost:8080/my-awesome-page.html
+* http://localhost:8080/my-awesome-page
 
 Read the blog post about this demo at: https://tisonkun.org/.
